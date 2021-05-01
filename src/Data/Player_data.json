@@ -1,0 +1,108 @@
+[{
+  "id":1,
+  "name":"Thibaut Courtois",
+  "position": "Goalkeeper",
+  "salary":75.00,
+  "team_name":"Real Madrid",
+  "country":"Belgium",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/108390-1572942947.jpg?lm=1"
+},
+{
+  "id":2,
+  "name":"Raphaël Varane",
+  "position": "Centre-Back",
+  "salary":70.00,
+  "team_name":"Real Madrid",
+  "country":"France",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/164770-1598301905.jpg?lm=1"
+},
+{
+  "id":3,
+  "name":"Éder Militão",
+  "position": "Centre-Back",
+  "salary":30.00,
+  "team_name":"Real Madrid",
+  "country":"Brazil",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/401530-1568189259.jpg?lm=1"
+},
+{
+  "id":4,
+  "name":"Sergio Ramos",
+  "position": "Centre-Back",
+  "salary":14.00,
+  "team_name":"Real Madrid",
+  "country":"Spain",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/25557-1604163453.jpg?lm=1"
+},
+{
+  "id":5,
+  "name":"Ferland Mendy",
+  "position": "Left-Back",
+  "salary":40.00,
+  "team_name":"Real Madrid",
+  "country":"France",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/291417-1479731632.jpg?lm=1"
+},
+{
+  "id":6,
+  "name":"Marcelo",
+  "position": "Left-Back",
+  "salary":10.00,
+  "team_name":"Real Madrid",
+  "country":"Brazil",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/44501-1603112392.jpg?lm=1"
+},
+{
+  "id":7,
+  "name":"Casemiro",
+  "position": " Defensive Midfield",
+  "salary":70.00,
+  "team_name":"Real Madrid",
+  "country":"Brazil",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/16306-1454413595.jpg?lm=1"
+},
+{
+  "id":8,
+  "name":"Toni Kroos",
+  "position": "Goalkeeper",
+  "salary":75.00,
+  "team_name":"Real Madrid",
+  "country":"Belgium",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/108390-1572942947.jpg?lm=1"
+},
+{
+  "id":9,
+  "name":"Luka Modric",
+  "position": "Central Midfield",
+  "salary":50.00,
+  "team_name":"Real Madrid",
+  "country":"Croatia",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/27992-1543926073.jpg?lm=1"
+},
+{
+  "id":10,
+  "name":"Isco",
+  "position": "Attacking Midfield",
+  "salary":10.00,
+  "team_name":"Real Madrid",
+  "country":"Spain",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/85288-1523366774.jpg?lm=1"
+},
+{
+  "id":11,
+  "name":"Rodrygo",
+  "position": "Right Winger",
+  "salary":45.00,
+  "team_name":"Real Madrid",
+  "country":"Brazil",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/412363-1547642877.jpg?lm=1"
+},
+{
+  "id":12,
+  "name":"Karim Benzema",
+  "position": "Centre-Forward",
+  "salary":25.00,
+  "team_name":"Real Madrid",
+  "country":"France",
+  "image":"https://img.a.transfermarkt.technology/portrait/header/18922-1544774342.jpg?lm=1"
+}]
